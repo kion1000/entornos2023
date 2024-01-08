@@ -28,7 +28,7 @@ public class Calculadora {
 		    }
 		// Método para Multiplicar
 		public static int multiplicar(int a, int b) {
-			return a + b;
+			return a * b;
 
 			//Realizar Multiplicacion
 			int resultadoMultiplicar= multiplicar(num1,num2);
