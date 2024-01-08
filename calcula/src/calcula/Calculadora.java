@@ -26,12 +26,12 @@ public class Calculadora {
 		        int resultadoResta = restar(num1, num2);
 		        System.out.println("Resta: " + resultadoResta);
 		    }
-		// Método para Multiplicar
-		public static int multiplicar(int a, int b) {
+		    // Método para Multiplicar
+		    public static int multiplicar(int a, int b) {
 			return a * b;
 
 			//Realizar Multiplicacion
-			int resultadoMultiplicar= multiplicar(num1,num2);
+			int resultadoMultiplicar = multiplicar(num1,num2);
 			System.out.println("Multiplicacion: " + resultadoMultiplicar);
 			
 
